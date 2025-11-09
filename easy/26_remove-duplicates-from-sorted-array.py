@@ -8,5 +8,3 @@ class Solution:
                 pivot += 1
                 nums[pivot] = nums[i]
         return pivot + 1
-
-        
